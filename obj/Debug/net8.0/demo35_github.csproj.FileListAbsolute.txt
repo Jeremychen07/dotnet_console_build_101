@@ -1,0 +1,14 @@
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\bin\Debug\net8.0\demo35_github.exe
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\bin\Debug\net8.0\demo35_github.deps.json
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\bin\Debug\net8.0\demo35_github.runtimeconfig.json
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\bin\Debug\net8.0\demo35_github.dll
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\bin\Debug\net8.0\demo35_github.pdb
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.AssemblyInfoInputs.cache
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.AssemblyInfo.cs
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.csproj.CoreCompileInputs.cache
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.dll
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\refint\demo35_github.dll
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.pdb
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.genruntimeconfig.cache
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\ref\demo35_github.dll
