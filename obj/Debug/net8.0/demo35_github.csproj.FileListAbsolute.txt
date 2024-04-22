@@ -12,3 +12,4 @@ C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\refint\demo35_gi
 C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.pdb
 C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.genruntimeconfig.cache
 C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\ref\demo35_github.dll
+C:\Users\a2726\ddmc_c_sharp_cicd\demo35_github\obj\Debug\net8.0\demo35_github.sourcelink.json
